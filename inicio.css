@@ -16,7 +16,7 @@ a{
     background: darkcyan;
     margin: 5px;
     position: relative;
-    
+    width: auto ;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -28,7 +28,7 @@ a{
     background: #ec6f84;
     overflow: hidden;
     padding: 20px;
-    width: 40%;
+    width: 30% ;
     vertical-align: middle;
     display: flex;
     justify-content: center;
